@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://zhishengqianjun.picp.io/2017/06/14/test-image/</loc>
+    <lastmod>2017-06-14T12:49:44.626Z</lastmod>
+    <data>
+        <display>
+        <title>test_image</title>
+        <pubTime>2017-06-14T09:19:52.000Z</pubTime>
+        
+        <tag>图片</tag>
+         
+        <tag>测试</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://zhishengqianjun.picp.io/2017/06/14/hhh/</loc>
+    <lastmod>2017-06-14T06:10:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-06-14T12:45:17.635Z</pubTime>
+        
+        <tag>china</tag>
+         
+        <tag>Asia</tag>
+         
+         
+           
+             
+              <breadCrumb title="helloworld" url="https://zhishengqianjun.picp.io/categories/helloworld/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>https://zhishengqianjun.picp.io/2017/06/14/hello-world/</loc>
+    <lastmod>2017-06-14T04:02:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-06-14T12:45:17.635Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
