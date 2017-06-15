@@ -4,41 +4,23 @@
 
     
   <url>
-    <loc>https://zhishengqianjun.picp.io/2017/06/14/test-image/</loc>
-    <lastmod>2017-06-14T12:49:44.626Z</lastmod>
+    <loc>https://zhishengqianjun.picp.io/2017/06/15/Git--gitignore/</loc>
+    <lastmod>2017-06-15T07:08:06.000Z</lastmod>
     <data>
         <display>
-        <title>test_image</title>
-        <pubTime>2017-06-14T09:19:52.000Z</pubTime>
+        <title>Git系列: gitignore</title>
+        <pubTime>2017-06-15T07:08:40.422Z</pubTime>
         
-        <tag>图片</tag>
+        <tag>github</tag>
          
-        <tag>测试</tag>
+        <tag>gitignore</tag>
          
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>https://zhishengqianjun.picp.io/2017/06/14/hhh/</loc>
-    <lastmod>2017-06-14T06:10:19.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-06-14T12:45:17.635Z</pubTime>
-        
-        <tag>china</tag>
-         
-        <tag>Asia</tag>
+        <tag>git系列</tag>
          
          
            
              
-              <breadCrumb title="helloworld" url="https://zhishengqianjun.picp.io/categories/helloworld/"/>
+              <breadCrumb title="Git文档" url="https://zhishengqianjun.picp.io/categories/Git%E6%96%87%E6%A1%A3/"/>
           
         </display>
     </data>
@@ -47,18 +29,4 @@
     
     
     
-  <url>
-    <loc>https://zhishengqianjun.picp.io/2017/06/14/hello-world/</loc>
-    <lastmod>2017-06-14T04:02:17.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-06-14T12:45:17.635Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
